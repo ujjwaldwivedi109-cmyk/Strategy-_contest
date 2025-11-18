@@ -1,0 +1,14 @@
+# Core dependencies for strategy-contest framework
+numpy
+pandas
+
+# Needed for dashboard, HTTP endpoints, integrations
+fastapi
+uvicorn
+
+# Logging, async support
+pydantic
+python-dotenv
+
+# Optional but useful
+requests
